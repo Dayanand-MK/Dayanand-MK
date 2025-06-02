@@ -29,7 +29,7 @@
 
 ## 📫 Let's Connect!  
 
-🌐 **Portfolio:** [Coming Soon]  
+🌐 **Portfolio:** [View](https://dayanand-mk.github.io/Portfolio/)  
 🐦 **Twitter:** [@yourhandle](https://twitter.com/)  
 💼 **LinkedIn:** [Connect Now](www.linkedin.com/in/dayanand-mk)  
 ✍🏻 **Blog:** [Read Now](https://tech-terminus.blogspot.com/)  
