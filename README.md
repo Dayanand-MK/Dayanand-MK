@@ -31,13 +31,12 @@ Currently deepening my focus on **multimodal deep learning** and learning to tak
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,sklearn,mysql,git,github,vscode,streamlit" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Dayanand-MK&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayanand-MK&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dayanand-MK&layout=compact&hide_border=true" />
 </p>
 
 ---
