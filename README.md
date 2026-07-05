@@ -17,14 +17,14 @@
 ---
 
 ### 🔭 About Me
-Final-year CSE (AI & ML) student who builds end-to-end AI systems — from model to a working demo, not just a script that runs once in a notebook.
+Final-year CSE (AI & ML) student who builds end-to-end AI systems — from model to a deployed, working demo, not just a script that runs once in a notebook.
 Currently deepening my focus on **multimodal deep learning** and learning to take models from "it works on my laptop" to **deployed and reproducible**.
 
-- 🎓 B.E. CSE (AI & ML), Final Year
-- 🧠 Built **SentimentX** — a multimodal (video + audio + text) emotion recognition system
-- 🌱 Built a CV-based **Plant Disease Detection** system
-- 🚀 Currently learning: model deployment, Docker, and MLOps fundamentals
-- 💬 Ask me about: Python, Deep Learning, Computer Vision, NLP basics
+🎓 B.E. CSE (AI & ML), Final Year
+🚀 Built AgroSage-AI — a full-stack AI agriculture advisor (FastAPI + React), live on Google Cloud Run
+🤖 Built MSentinel_AI — a RAG-based document audit platform using ChromaDB + HuggingFace LLMs, Dockerized
+🧠 Built SentimentX — a multimodal (video + audio + text) emotion recognition system
+💬 Ask me about: Python, Deep Learning, RAG/LLM systems, Computer Vision, Full-Stack ML deployment
 
 ---
 
@@ -44,16 +44,14 @@ Currently deepening my focus on **multimodal deep learning** and learning to tak
 
 ### 🚀 Featured Projects
 
-**[SentimentX — Multimodal Emotion Recognition](https://github.com/Dayanand-MK/SentimentX-A-Multimodal-AI-System-for-Emotion-Recognition)**
-Multimodal deep learning system combining video, audio, and text signals for emotion classification.
-`PyTorch` `OpenCV` `NLP` `Deep Learning`
+**[AgroSage-AI]** — Full-stack AI agriculture advisor with a Random Forest crop model, live weather/market data, deployed on Google Cloud Run. [Live Demo](https://agrosage-ai-1045649332725.us-central1.run.app/)
+FastAPI React Docker Machine Learning
 
-**[Plant Disease Detection System](https://github.com/Dayanand-MK/Plant-Disease-Detection-System-For-Sustainable-Agriculture-)**
-Computer vision system for early crop disease detection to support sustainable agriculture.
-`Computer Vision` `TensorFlow` `Image Classification`
+**[MSentinel_AI]** — Enterprise document audit platform using RAG (ChromaDB + HuggingFace LLM), Dockerized with full test suite.
+RAG LLM Docker HuggingFace. [Live Demo](https://msentinel-ai.streamlit.app/)
 
-**[Portfolio Website](https://dayanand-mk.github.io/Portfolio/)**
-Personal site showcasing projects, skills, and experience.
+**[SentimentX]** — Multimodal deep learning system combining video, audio, and text for emotion classification.
+PyTorch NLP Deep Learning
 
 ---
 
