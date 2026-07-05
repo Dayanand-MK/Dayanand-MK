@@ -1,66 +1,79 @@
-# Hi, I'm Dayanand M K 👋
+<h1 align="center">Hi there, I'm Dayanand M K 👋</h1>
 
-**CSE (AI & ML) student** building at the intersection of data, intelligence, and software — currently open to **internships and full-time roles** as a Data Analyst, AI/ML Engineer, or Software Developer.
+<h3 align="center">AI/ML Engineer in the making — building multimodal AI systems, not just running notebooks</h3>
 
-I don't just study AI — I build with it. From plant disease detection using CNNs to multimodal emotion recognition, my projects are hands-on and problem-focused.
-
----
-
-## 🛠 What I Work With
-
-**Languages & Dev**
-`Python` `Java` `C` `SQL` `REST APIs` `OOP` `System Design` `Git`
-
-**AI / ML / Deep Learning**
-`TensorFlow` `PyTorch` `Keras` `Scikit-learn` `OpenCV` `NLP` `CNN` `Transfer Learning`
-
-**Data & BI**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Streamlit`
-
-**Databases**
-`MySQL` `SQLite` `ERD Design` `Relational Schema` `Data Modeling`
-
-**Tools**
-`Jupyter Notebook` `VS Code`
+<p align="center">
+  <a href="https://www.linkedin.com/in/dayanand-mk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dayanand-mk.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:dayanandmk.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔨 Projects
+### 🔭 About Me
+Final-year CSE (AI & ML) student who builds end-to-end AI systems — from model to a working demo, not just a script that runs once in a notebook.
+Currently deepening my focus on **multimodal deep learning** and learning to take models from "it works on my laptop" to **deployed and reproducible**.
 
-### 🌿 [Plant Disease Detection System](https://github.com/Dayanand-MK/Plant-Disease-Detection-System-For-Sustainable-Agriculture-)
-CNN-based image classification system that identifies crop diseases from leaf images to support sustainable agriculture. Built during AICTE Internship (Cycle 4) with Edunet Foundation using TensorFlow and transfer learning.
-
-### 🧠 [SentimentX — Multimodal Emotion Recognition](https://github.com/Dayanand-MK/SentimentX-A-Multimodal-AI-System-for-Emotion-Recognition)
-An AI system that combines text and visual signals to recognize human emotions. Built using NLP + OpenCV, demonstrating how models can interpret context beyond single-modality inputs.
-
-### 💼 [Wells Fargo Virtual Internship — Task 2](https://github.com/Dayanand-MK/WellsFargoTask2)
-Java-based task completed as part of the Wells Fargo Software Engineering virtual experience program.
-
----
-
-## 📌 Currently
-
-- 🎓 Finishing my **B.E. in CSE (AI & ML)** — graduating **[your year]**
-- 🔭 Working on **[current project or learning — update this]**
-- 📖 Writing tech blogs to break down complex concepts at [Tech Terminus](https://tech-terminus.blogspot.com/)
-- 🤝 Open to: **Internships · Full-time roles · Collaborations**
+- 🎓 B.E. CSE (AI & ML), Final Year
+- 🧠 Built **SentimentX** — a multimodal (video + audio + text) emotion recognition system
+- 🌱 Built a CV-based **Plant Disease Detection** system
+- 🚀 Currently learning: model deployment, Docker, and MLOps fundamentals
+- 💬 Ask me about: Python, Deep Learning, Computer Vision, NLP basics
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![Dayanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayanand-MK&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanand-MK&layout=compact&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,pytorch,tensorflow,opencv,sklearn,mysql,git,github,vscode,streamlit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 🚀 Featured Projects
 
-| | |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/dayanand-mk](https://www.linkedin.com/in/dayanand-mk) |
-| 🌐 Portfolio | [dayanand-mk.github.io/Portfolio](https://dayanand-mk.github.io/Portfolio/) |
-| ✍️ Blog | [tech-terminus.blogspot.com](https://tech-terminus.blogspot.com/) |
-| 📧 Email | your.email@example.com |
+**[SentimentX — Multimodal Emotion Recognition](https://github.com/Dayanand-MK/SentimentX-A-Multimodal-AI-System-for-Emotion-Recognition)**
+Multimodal deep learning system combining video, audio, and text signals for emotion classification.
+`PyTorch` `OpenCV` `NLP` `Deep Learning`
 
-> I'm actively looking for opportunities where I can contribute to real problems using AI and data. If that sounds like your team, let's talk.
+**[Plant Disease Detection System](https://github.com/Dayanand-MK/Plant-Disease-Detection-System-For-Sustainable-Agriculture-)**
+Computer vision system for early crop disease detection to support sustainable agriculture.
+`Computer Vision` `TensorFlow` `Image Classification`
+
+**[Portfolio Website](https://dayanand-mk.github.io/Portfolio/)**
+Personal site showcasing projects, skills, and experience.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dayanand-MK&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayanand-MK&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanand-MK&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dayanand-mk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dayanandmk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://dayanand-mk.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+</p>
